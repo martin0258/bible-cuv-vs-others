@@ -1,4 +1,4 @@
-bible-cuv-vs-niv
+Bible CUV VS Others
 ================
 
-比較聖經和合本 (CUV, Chinese Union Version) 和 NIV (New International Version)
+比較聖經和合本 (CUV, Chinese Union Version) 和其他版本
